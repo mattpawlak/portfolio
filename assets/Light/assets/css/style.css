@@ -748,7 +748,7 @@ a.read-more:hover {
 .fun-facts {
     background: url('../images/para.jpg') no-repeat fixed center center;
     background-size: cover;
-    padding: 200px 0;
+    padding: 100px 0;
     position: relative;
 }
 .fun-facts .overlay {
@@ -765,7 +765,7 @@ a.read-more:hover {
     color: #fff;
     display: block;
     font-family: 'Montserrat', sans-serif;
-    font-size: 72px;
+    font-size: 36px;
     font-weight: 700;
     letter-spacing: 2px;
     line-height: 1;
@@ -775,7 +775,7 @@ a.read-more:hover {
 .fun-facts .fact p {
     color: #fff;
     font-family: 'Open Sans', sans-serif;
-    font-size: 30px;
+    font-size: 15px;
     font-weight: 400;
     letter-spacing: 2px;
     margin-top: 10px;
@@ -783,7 +783,7 @@ a.read-more:hover {
 }
 
 .why-we {
-    padding: 80px 0 40px;
+    padding: 20px 0 70px;
 }
 .why{
 	display: block;
